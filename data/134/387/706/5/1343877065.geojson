@@ -39,7 +39,7 @@
         "gn:id":6692389
     },
     "wof:country":"CW",
-    "wof:geomhash":"c878652681179d26e6855116145c965b",
+    "wof:geomhash":"41402a1fd7d80b96f7644df5175c61ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,5 +64,5 @@
     -68.99486999999999,
     12.14335
 ],
-  "geometry": {"coordinates":[-68.99486999999999,12.14335],"type":"Point"}
+  "geometry": {"coordinates":[-68.99487,12.14335],"type":"Point"}
 }

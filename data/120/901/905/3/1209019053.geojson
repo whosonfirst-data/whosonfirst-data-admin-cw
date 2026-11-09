@@ -38,7 +38,7 @@
         "gn:id":3513103
     },
     "wof:country":"CW",
-    "wof:geomhash":"e411f94d7a1f7b74f3fedd25bf05e4fb",
+    "wof:geomhash":"5e8ce0f6064c03fbc64765df1c625d89",
     "wof:hierarchy":[
         {
             "country_id":85632441,
@@ -61,5 +61,5 @@
     -68.98333000000001,
     12.01667
 ],
-  "geometry": {"coordinates":[-68.98333000000001,12.01667],"type":"Point"}
+  "geometry": {"coordinates":[-68.98333,12.01667],"type":"Point"}
 }
