@@ -1,0 +1,72 @@
+{
+  "id": 9895016066,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.01547,12.18345,-69.01547,12.18345",
+    "geom:latitude":12.18345,
+    "geom:longitude":-69.01547,
+    "iso:country":"CW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3513853: name \"Bullenbaai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3513853"
+        },
+        {
+            "citation":"GeoNames populated place 3513853: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3513853"
+        },
+        {
+            "citation":"GeoNames populated place 3513853: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3513853"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670465 (Curacao), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632441,
+        85670465,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513853
+    },
+    "wof:country":"CW",
+    "wof:geomhash":"b922ca6dce6f8041ebf6677e3d685ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632441,
+            "locality_id":9895016066,
+            "region_id":85670465
+        }
+    ],
+    "wof:id":9895016066,
+    "wof:lastmodified":1795735245,
+    "wof:name":"Bullenbaai",
+    "wof:parent_id":85670465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.01547,
+    12.18345,
+    -69.01547,
+    12.18345
+],
+  "geometry": {"coordinates":[-69.01547,12.18345],"type":"Point"}
+}
