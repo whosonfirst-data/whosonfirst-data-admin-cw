@@ -1,0 +1,73 @@
+{
+  "id": 9895016069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.02867,12.22365,-69.02867,12.22365",
+    "geom:latitude":12.22365,
+    "geom:longitude":-69.02867,
+    "gn:population":4388,
+    "iso:country":"CW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13632006: name \"Tera Kora\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13632006"
+        },
+        {
+            "citation":"GeoNames populated place 13632006: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13632006"
+        },
+        {
+            "citation":"GeoNames populated place 13632006: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13632006"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670465 (Curacao), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632441,
+        85670465,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13632006
+    },
+    "wof:country":"CW",
+    "wof:geomhash":"1274118f418be7b2efda34f47860a36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632441,
+            "locality_id":9895016069,
+            "region_id":85670465
+        }
+    ],
+    "wof:id":9895016069,
+    "wof:lastmodified":1795735245,
+    "wof:name":"Tera Kora",
+    "wof:parent_id":85670465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.02867,
+    12.22365,
+    -69.02867,
+    12.22365
+],
+  "geometry": {"coordinates":[-69.02867,12.22365],"type":"Point"}
+}

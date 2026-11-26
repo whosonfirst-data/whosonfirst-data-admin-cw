@@ -1,0 +1,73 @@
+{
+  "id": 9895016067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.83092,12.09257,-68.83092,12.09257",
+    "geom:latitude":12.09257,
+    "geom:longitude":-68.83092,
+    "gn:population":20838,
+    "iso:country":"CW",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308487: name \"Bandariba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308487"
+        },
+        {
+            "citation":"GeoNames populated place 13308487: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308487"
+        },
+        {
+            "citation":"GeoNames populated place 13308487: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308487"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85670465 (Curacao), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632441,
+        85670465,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308487
+    },
+    "wof:country":"CW",
+    "wof:geomhash":"a86b61acad7c18ea15120760aabf2520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632441,
+            "locality_id":9895016067,
+            "region_id":85670465
+        }
+    ],
+    "wof:id":9895016067,
+    "wof:lastmodified":1795735245,
+    "wof:name":"Bandariba",
+    "wof:parent_id":85670465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.83092,
+    12.09257,
+    -68.83092,
+    12.09257
+],
+  "geometry": {"coordinates":[-68.83092,12.09257],"type":"Point"}
+}
